@@ -1,0 +1,12 @@
+StonePlantMound1,-1021,-1015,3031,3037
+RLCraft_BasicCaveSpider,-1023,-1023,2982,2982
+BlazeSpawnerCrystal,-990,-984,2853,2859
+RLCraft_DecentSkeleton,-946,-946,2969,2969
+RLCraft_UndergroundRuin3,-951,-943,2967,2975
+Tree_Oak_TheMushroomOak_v3,-909,-859,2749,2808
+RLCraft_BasicZombie,-935,-935,2740,2740
+RLCraft_UndergroundRuin1,-941,-932,2737,2746
+StonePlantMound,-922,-917,2726,2731
+StonePlantMound1,-844,-838,2823,2829
+P_WizardTower,-855,-825,2828,2858
+MysticalTree,-837,-821,2907,2922

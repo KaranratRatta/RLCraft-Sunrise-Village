@@ -1,0 +1,17 @@
+P_SmallShip,-5111,-5091,4476,4482
+StonePlantMound,-4965,-4960,4360,4365
+StonePlantBoulder,-4930,-4920,4405,4415
+StonePlantMound3,-4932,-4921,4331,4340
+StonePlantBoulder,-4898,-4888,4308,4318
+StonePlantMound,-4886,-4881,4378,4383
+HobbitHole,-4923,-4826,4334,4406
+PeacefulCrypt,-4817,-4801,4408,4432
+RLCraft_BasicCaveSpider,-4787,-4787,4232,4232
+RLCraft_UndergroundRuin1,-4793,-4784,4229,4238
+SmallWoodenCottage2,-4775,-4767,4224,4232
+StonePlantMound,-4734,-4729,4454,4459
+StonePlantMound3,-4726,-4715,4404,4413
+StonePlantMound,-4724,-4719,4150,4155
+RLCraft_BasicZombie,-4761,-4761,4145,4145
+RLCraft_UndergroundRuin1,-4764,-4755,4142,4151
+StoneLeafMound,-4688,-4679,4379,4386

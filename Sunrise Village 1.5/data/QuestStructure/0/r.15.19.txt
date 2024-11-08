@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,8104,8112,9756,9764
+UndergroundCultChamber,8055,8097,9876,9908
+RLCraft_SmallUndergroundSkeleton,8013,8021,9730,9738
+StoneIceBoulder1,8086,8096,9975,9985
+RLCraft_FriendlyOutpost,8048,8116,9982,10021

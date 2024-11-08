@@ -1,0 +1,12 @@
+P_VillageFarmhouse,-4021,-4009,7762,7774
+P_VillageInn,-4021,-4012,7779,7790
+VillageGuardTower,-4058,-4046,7759,7771
+RLCraft_BasicSpider,-4022,-4022,7798,7798
+RLCraft_UndergroundRuin1,-4025,-4016,7795,7804
+ThreeTowers,-4021,-3990,7800,7832
+VillageWoodMill,-4038,-4025,7798,7814
+MeteorSite,-3887,-3857,7689,7704
+FallenPalmTree,-3913,-3903,7710,7714
+VillageTriplets,-4058,-4044,7812,7826
+RLCraft_Vineyard,-4057,-4029,7835,7855
+ShrineSmallAir,-3982,-3974,8182,8190

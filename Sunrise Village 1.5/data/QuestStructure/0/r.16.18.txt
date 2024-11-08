@@ -1,0 +1,12 @@
+SmallAbandonedMine,8261,8286,9658,9673
+RLCraft_4Towers,8197,8249,9681,9741
+RLCraft_SmallUndergroundSkeleton,8254,8262,9673,9681
+StoneIceBoulder3,8378,8388,9660,9670
+DinosaurSkeleton,8384,8430,9668,9677
+P_WitchDungeon,8357,8374,9608,9642
+StoneIceBoulder1,8309,8319,9531,9541
+StoneIceBoulder3,8347,8357,9520,9530
+P_TreeDungeon,8346,8388,9505,9550
+StoneIceBoulder1,8244,8254,9525,9535
+StoneIceBoulder,8478,8487,9688,9698
+P_IceSkeletonLookout,8495,8505,9627,9637

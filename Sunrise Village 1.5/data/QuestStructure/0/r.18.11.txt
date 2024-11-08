@@ -1,0 +1,9 @@
+StoneLeafMound,9433,9440,5721,5730
+StoneBoulder,9446,9455,5750,5759
+StonePlantBoulder,9347,9357,5686,5696
+StoneBoulder,9581,9590,5739,5748
+StonePlantMound2,9487,9500,5791,5803
+StonePlantMound2,9369,9382,5733,5745
+StonePlantMound3,9322,9331,5645,5656
+StonePlantBoulder,9558,9568,5763,5773
+RLCraft_UndergroundFarm,9618,9661,5754,5796

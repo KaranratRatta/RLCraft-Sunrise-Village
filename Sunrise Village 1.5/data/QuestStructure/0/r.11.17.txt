@@ -1,0 +1,14 @@
+StonePlantBoulder,5650,5660,9127,9137
+StonePlantMound3,5670,5681,9163,9172
+RLCraft_SmallUndergroundSkeleton,5695,5703,9125,9133
+ShrineSmallFire,5692,5702,8956,8966
+RLCraft_UndergroundFarm,5708,5750,8877,8920
+StonePlantMound2,5729,5741,9137,9150
+StonePlantMound1,5798,5804,9160,9166
+StonePlantMound1,5834,5840,9071,9077
+StonePlantMound3,5855,5864,9161,9172
+BlazeSpawnerCrystal,5914,5920,8957,8963
+StoneLeafMound,6038,6047,8941,8948
+MysticalTree2,5949,5959,8962,8972
+StonePlantMound3,6032,6041,8913,8924
+RLCraft_SmallUndergroundSkeleton,6013,6021,9046,9054

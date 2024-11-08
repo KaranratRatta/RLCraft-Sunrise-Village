@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,-3009,-3001,6389,6397
+ElvenPond,-2877,-2847,6316,6345
+StonePlantMound2,-2879,-2866,6218,6230
+StoneBoulder,-2843,-2834,6291,6300
+RLCraft_BasicSkeleton,-2811,-2811,6210,6210
+RLCraft_UndergroundRuin1,-2814,-2805,6204,6213
+RLCraft_DecentSpider,-2775,-2775,6420,6420
+RLCraft_UndergroundRuin2,-2780,-2773,6415,6425
+StoneBoulder,-2966,-2957,6577,6586
+StoneBoulder,-3049,-3040,6644,6653
+StonePlantBoulder,-2916,-2906,6507,6517

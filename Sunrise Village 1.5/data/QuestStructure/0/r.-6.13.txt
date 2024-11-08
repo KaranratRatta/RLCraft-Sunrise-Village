@@ -1,0 +1,6 @@
+DesertHut,-3518,-3508,6722,6731
+RLCraft_DecentCaveSpider,-3141,-3141,6676,6676
+RLCraft_UndergroundRuin2,-3143,-3136,6671,6681
+StonePlantMound2,-3254,-3242,6685,6698
+RLCraft_UndergroundFarm,-3186,-3143,6722,6764
+ShrineSmallWater,-3430,-3422,6751,6759

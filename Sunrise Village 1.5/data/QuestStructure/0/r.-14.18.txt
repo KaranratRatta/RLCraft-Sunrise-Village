@@ -1,0 +1,7 @@
+SmallWoodenCottage1,-7223,-7212,9450,9456
+SmallWoodenCottage2,-7219,-7211,9245,9253
+RLCraft_DecentWitch,-7205,-7205,9287,9287
+RLCraft_UndergroundRuin2,-7207,-7200,9282,9292
+StonePlantMound,-7315,-7310,9278,9283
+PeacefulCrypt,-7309,-7293,9262,9286
+RLCraft_SmallUndergroundSkeleton,-7345,-7337,9292,9300

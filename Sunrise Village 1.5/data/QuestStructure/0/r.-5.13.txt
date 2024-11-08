@@ -1,0 +1,7 @@
+StonePlantBoulder,-2998,-2988,6680,6690
+StonePlantMound,-2973,-2968,6760,6765
+StonePlantMound1,-3016,-3010,6794,6800
+StonePlantMound2,-2881,-2869,6672,6685
+RLCraft_LargeUndergroundTown,-2980,-2843,6621,6734
+StonePlantMound3,-2961,-2950,6762,6771
+P_RuinedHouse,-2811,-2794,6770,6795

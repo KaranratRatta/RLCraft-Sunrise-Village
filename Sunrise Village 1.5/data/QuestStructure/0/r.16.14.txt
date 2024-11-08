@@ -1,0 +1,7 @@
+RLCraft_DecentWitch,8629,8629,7233,7233
+RLCraft_UndergroundRuin3,8623,8631,7228,7236
+RLCraft_4Towers,8516,8576,7189,7241
+StonePlantMound2,8502,8515,7172,7184
+RLCraft_BasicWitch,8605,8605,7291,7291
+RLCraft_UndergroundRuin1,8602,8611,7285,7294
+RLCraft_PlainsCamp,8560,8599,7338,7384

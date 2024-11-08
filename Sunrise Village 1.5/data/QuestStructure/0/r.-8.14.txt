@@ -1,0 +1,10 @@
+DinosaurSkull,-4363,-4352,7197,7216
+RLCraft_UndergroundFarm,-4273,-4231,7233,7276
+P_Deqing,-4555,-4508,7292,7344
+P_Village2Story,-4465,-4452,7321,7327
+SeasonsGreenhouse,-4497,-4487,7350,7362
+VillageTriplets,-4468,-4454,7350,7364
+RLCraft_Vineyard,-4474,-4454,7366,7394
+StoneBoulder,-4196,-4187,7340,7349
+StonePlantMound4,-4195,-4188,7407,7414
+StoneBoulder,-4184,-4175,7438,7447

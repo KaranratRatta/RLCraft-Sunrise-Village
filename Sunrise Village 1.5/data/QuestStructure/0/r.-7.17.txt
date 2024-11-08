@@ -1,0 +1,8 @@
+StonePlantBoulder,-3815,-3805,9020,9030
+StonePlantMound2,-3854,-3842,9062,9075
+StoneIceBoulder,-3997,-3987,9055,9064
+RLCraft_DecentSpider,-4008,-4008,9086,9086
+RLCraft_UndergroundRuin3,-4010,-4002,9081,9089
+StoneIceBoulder2,-4097,-4088,9155,9164
+RLCraft_BasicSpider,-4059,-4059,9179,9179
+RLCraft_UndergroundRuin1,-4062,-4053,9176,9185

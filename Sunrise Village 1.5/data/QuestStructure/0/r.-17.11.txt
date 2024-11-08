@@ -1,0 +1,11 @@
+StonePlantMound2,-8714,-8702,5823,5836
+RLCraft_DecentZombie,-8734,-8734,6030,6030
+RLCraft_UndergroundRuin2,-8739,-8729,6028,6035
+RLCraft_DecentCaveSpider,-8808,-8808,6019,6019
+RLCraft_UndergroundRuin3,-8810,-8802,6016,6024
+Tree_Oak_TheMushroomOak_v3,-8832,-8773,5988,6038
+StonePlantMound,-8849,-8844,6044,6049
+RLCraft_BasicWitch,-8860,-8860,6047,6047
+RLCraft_UndergroundRuin1,-8866,-8857,6041,6050
+DinosaurSkeleton,-8865,-8856,6111,6157
+StonePlantMound1,-8931,-8925,6067,6073

@@ -1,0 +1,4 @@
+RLCraft_FriendlyOutpost,-7016,-6948,9747,9786
+RLCraft_SmallUndergroundSkeleton,-7138,-7130,9754,9762
+ShrineSmallFire,-7163,-7153,9751,9761
+DinosaurSkeleton,-6735,-6689,10072,10081

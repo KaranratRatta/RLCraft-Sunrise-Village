@@ -1,0 +1,5 @@
+RLCraft_BasicZombie,5600,5600,5373,5373
+RLCraft_UndergroundRuin1,5597,5606,5370,5379
+DesertHut,5527,5537,5363,5372
+ShrineSmallAir,5549,5557,5492,5500
+BigClockworkSite,5509,5554,5284,5319

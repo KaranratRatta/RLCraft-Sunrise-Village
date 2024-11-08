@@ -1,0 +1,3 @@
+StonePlantMound2,9743,9755,5712,5725
+ShrineSmallAir,9863,9871,5658,5666
+ShrineSmallFire,9941,9951,5638,5648

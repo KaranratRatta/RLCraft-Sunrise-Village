@@ -1,0 +1,10 @@
+StoneBoulder,-4084,-4075,7396,7405
+StoneLeafMound,-3953,-3944,7417,7424
+SmallClockworkSite,-3952,-3930,7502,7521
+DinosaurSkull,-4077,-4058,7531,7542
+MonolythHoly,-3943,-3929,7530,7544
+RLCraft_DecentCaveSpider,-4079,-4079,7572,7572
+RLCraft_UndergroundRuin3,-4084,-4076,7566,7574
+ShrineSmallFire,-4043,-4033,7557,7567
+StoneBoulder,-3851,-3842,7610,7619
+PirateChest,-3954,-3950,7647,7651

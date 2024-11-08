@@ -1,0 +1,2 @@
+StoneLeafMound,10270,10277,5402,5411
+StonePlantMound1,10253,10259,5345,5351

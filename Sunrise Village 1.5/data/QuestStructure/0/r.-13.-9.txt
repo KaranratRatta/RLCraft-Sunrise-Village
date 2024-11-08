@@ -1,0 +1,12 @@
+RLCraft_DecentSpider,-6956,-6956,-4622,-4622
+RLCraft_UndergroundRuin2,-6961,-6951,-4627,-4620
+StoneIceBoulder2,-6881,-6872,-4649,-4640
+SmallWoodenCottage,-7081,-7070,-4644,-4636
+StoneIceBoulder2,-7110,-7101,-4632,-4623
+StoneIceBoulder,-7023,-7013,-4655,-4646
+RLCraft_DecentSpider,-7044,-7044,-4651,-4651
+RLCraft_UndergroundRuin3,-7046,-7038,-4656,-4648
+P_TreeDungeon,-7022,-6977,-4731,-4689
+IceThorn1,-6958,-6937,-4713,-4697
+MeteorSite,-6885,-6855,-4764,-4749
+SmallAbandonedMine,-6790,-6775,-4695,-4670

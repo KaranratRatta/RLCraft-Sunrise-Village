@@ -1,0 +1,5 @@
+StonePlantMound,-5137,-5132,7203,7208
+StoneLeafMound,-5608,-5599,7202,7209
+SmallWoodenCottage1,-5508,-5502,7198,7209
+StonePlantMound3,-5481,-5472,7213,7224
+PeacefulCrypt,-5603,-5579,7265,7281

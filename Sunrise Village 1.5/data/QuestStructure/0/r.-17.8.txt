@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,-9214,-9214,4555,4555
+RLCraft_UndergroundRuin2,-9219,-9209,4550,4557
+RLCraft_DecentSpider,-9213,-9213,4531,4531
+RLCraft_UndergroundRuin3,-9216,-9208,4529,4537
+SmallWoodenCottage2,-9149,-9141,4477,4485

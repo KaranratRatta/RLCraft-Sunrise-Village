@@ -1,0 +1,11 @@
+StonePlantMound4,-7931,-7924,4199,4206
+StoneBoulder,-8020,-8011,4240,4249
+ClayWaterMound,-8010,-8002,4263,4270
+SmallFortRuins,-8130,-8098,4203,4233
+StonePlantMound1,-7863,-7857,4318,4324
+StonePlantMound4,-7949,-7942,4329,4336
+PeacefulCrypt,-7986,-7962,4322,4338
+AbandonedWoodTower,-7927,-7891,4337,4367
+StonePlantMound3,-7823,-7812,4345,4354
+StonePlantMound4,-7829,-7822,4373,4380
+WoodWallRemains,-7838,-7810,4390,4398

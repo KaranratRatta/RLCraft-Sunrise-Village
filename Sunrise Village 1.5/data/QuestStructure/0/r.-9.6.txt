@@ -1,0 +1,17 @@
+DesertHut,-5079,-5069,3536,3545
+RLCraft_SmallUndergroundSkeleton,-5099,-5091,3422,3430
+StoneLeafMound,-5094,-5085,3198,3205
+RLCraft_UndergroundFarm,-5090,-5047,3209,3251
+VillageLargeLibrary,-5058,-5038,3309,3328
+P_Village2Story,-5063,-5050,3286,3292
+VillageGuardTower,-5034,-5022,3289,3301
+RLCraft_Vineyard,-5021,-4993,3286,3306
+StoneBoulder,-5100,-5091,3143,3152
+VillageInn,-4997,-4970,3252,3272
+DinosaurSkull,-4994,-4975,3227,3238
+VillageForgeLarge,-4969,-4957,3217,3233
+VillageHouseRich,-4969,-4950,3238,3253
+P_WitchDungeon,-5003,-4969,3216,3233
+RLCraft_BasicSpider,-4950,-4950,3320,3320
+RLCraft_UndergroundRuin1,-4956,-4947,3314,3323
+P_VillageFarmhouse,-4948,-4936,3218,3230

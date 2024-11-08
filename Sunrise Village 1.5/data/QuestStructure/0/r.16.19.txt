@@ -1,0 +1,7 @@
+P_WizardTower,8322,8352,9755,9785
+StoneIceBoulder1,8405,8415,9788,9798
+RLCraft_BasicZombie,8386,8386,9908,9908
+RLCraft_UndergroundRuin1,8383,8392,9905,9914
+StoneIceBoulder1,8473,8483,9802,9812
+RLCraft_AgentStarbuck_VikingHouse,8213,8248,9931,9980
+DinosaurSkeleton,8337,8383,9958,9967

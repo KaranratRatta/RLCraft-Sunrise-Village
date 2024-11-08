@@ -1,0 +1,9 @@
+StoneBoulder,8676,8685,7132,7141
+StonePlantBoulder,8592,8602,7157,7167
+UndergroundCrypt,8532,8546,6972,7000
+UndergroundTreeoid,8550,8573,6846,6872
+StonePlantMound3,8492,8503,6914,6923
+StonePlantMound1,8602,8608,6724,6730
+RLCraft_DecentCaveSpider,8401,8401,6872,6872
+RLCraft_UndergroundRuin2,8396,8406,6867,6874
+ShrineSmallFire,8682,8692,6657,6667

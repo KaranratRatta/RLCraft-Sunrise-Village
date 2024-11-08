@@ -1,0 +1,12 @@
+StonePlantMound3,-6650,-6641,8242,8253
+StonePlantBoulder,-6656,-6646,8378,8388
+StoneBoulder,-6654,-6645,8473,8482
+StonePlantBoulder,-6646,-6636,8511,8521
+AbandonedWoodTower,-6604,-6574,8261,8297
+ShrineSmallFire,-6598,-6588,8428,8438
+StonePlantMound,-6588,-6583,8456,8461
+WoodWallRemains,-6588,-6560,8245,8253
+UndergroundCrypt,-6625,-6611,8515,8543
+StonePlantMound3,-6487,-6476,8297,8306
+StonePlantMound4,-6486,-6479,8276,8283
+StonePlantMound3,-6439,-6430,8625,8636

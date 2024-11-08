@@ -1,0 +1,7 @@
+StonePlantMound1,-576,-570,8439,8445
+ShrineSmallFire,-598,-588,8438,8448
+P_Crater,-601,-525,8431,8514
+RLCraft_DecentCaveSpider,-627,-627,8279,8279
+RLCraft_UndergroundRuin2,-632,-625,8274,8284
+StonePlantMound4,-632,-625,8396,8403
+StoneLeafMound,-637,-628,8378,8385

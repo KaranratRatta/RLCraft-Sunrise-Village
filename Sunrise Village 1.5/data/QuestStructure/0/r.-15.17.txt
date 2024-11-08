@@ -1,0 +1,6 @@
+ShrineSmallFire,-7838,-7828,8783,8793
+RLCraft_DecentZombie,-7984,-7984,8800,8800
+RLCraft_UndergroundRuin3,-7990,-7982,8797,8805
+ShrineSmallFire,-7845,-7835,9115,9125
+RLCraft_DecentSpider,-8109,-8109,8994,8994
+RLCraft_UndergroundRuin2,-8114,-8104,8992,8999

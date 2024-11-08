@@ -1,0 +1,6 @@
+UndergroundCultChamber,5655,5697,5394,5426
+DinosaurSkull,5751,5770,5181,5192
+RLCraft_Vineyard,5807,5835,5179,5199
+P_VillageInn,5854,5865,5186,5195
+VillageMarketplace,5862,5876,5163,5177
+VillageGuardTower,5875,5887,5186,5198

@@ -1,0 +1,4 @@
+RLCraft_BasicSkeleton,-4716,-4716,7199,7199
+RLCraft_UndergroundRuin1,-4722,-4713,7193,7202
+MysticalTree1,-4898,-4885,7218,7229
+StonePlantMound,-4799,-4794,7221,7226

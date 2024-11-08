@@ -1,0 +1,5 @@
+StoneLeafMound,-586,-579,7679,7688
+StonePlantMound3,-689,-680,7719,7730
+StonePlantMound2,-535,-523,8089,8102
+RLCraft_BasicSpider,-573,-573,8105,8105
+RLCraft_UndergroundRuin1,-579,-570,8099,8108

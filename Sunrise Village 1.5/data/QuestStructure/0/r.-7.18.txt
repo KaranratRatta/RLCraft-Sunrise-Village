@@ -1,0 +1,6 @@
+StonePlantMound4,-4023,-4016,9229,9236
+StonePlantMound1,-3952,-3946,9251,9257
+RLCraft_UndergroundFarm,-4095,-4053,9578,9621
+RLCraft_FriendlyOutpost,-4085,-4017,9619,9658
+RLCraft_BasicCaveSpider,-4001,-4001,9479,9479
+RLCraft_UndergroundRuin1,-4004,-3995,9476,9485

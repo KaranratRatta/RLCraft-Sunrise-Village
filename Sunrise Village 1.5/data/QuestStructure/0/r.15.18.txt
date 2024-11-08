@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,8146,8154,9579,9587
+WoodWallRemains,8009,8017,9695,9723

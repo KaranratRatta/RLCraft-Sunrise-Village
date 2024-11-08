@@ -1,0 +1,9 @@
+P_VillageFarmhouse,1740,1752,7595,7607
+DinosaurSkeleton,1846,1855,7579,7625
+StoneIceBoulder3,1744,1754,7501,7511
+ShrineSmallAir,1741,1749,7485,7493
+DinosaurSkull,1685,1696,7480,7499
+StoneIceBoulder1,1920,1930,7596,7606
+RLCraft_SmallUndergroundSkeleton,1923,1931,7553,7561
+P_Tent,1922,1931,7539,7548
+UndergroundCultChamber,1871,1903,7460,7502

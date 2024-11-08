@@ -1,0 +1,3 @@
+StoneLeafMound,-2624,-2615,-1086,-1079
+BlazeSpawnerCrystal,-2698,-2692,-1073,-1067
+OldWatchtower,-2778,-2765,-1106,-1094

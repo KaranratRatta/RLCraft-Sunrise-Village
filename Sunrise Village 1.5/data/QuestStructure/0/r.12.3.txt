@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,6374,6382,2003,2011
+DinosaurSkull,6388,6407,2000,2011
+StonePlantBoulder,6214,6224,1976,1986
+StonePlantMound3,6194,6205,2001,2010
+SmallWoodenCottage2,6412,6420,1910,1918
+StonePlantMound2,6225,6238,1934,1946
+ClayWaterMound,6411,6418,1892,1900
+RLCraft_DecentWitch,6210,6210,1931,1931
+RLCraft_UndergroundRuin2,6205,6215,1929,1936
+StoneLeafMound,6232,6241,1884,1891
+StonePlantMound2,6440,6453,1892,1904
+SmallWoodenCottage,6414,6425,1872,1880
+StonePlantMound,6180,6185,1905,1910

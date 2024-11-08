@@ -1,0 +1,2 @@
+StonePlantMound1,-9201,-9195,4801,4807
+RLCraft_PlainsCamp,-9167,-9128,4798,4844

@@ -1,0 +1,2 @@
+SmallAbandonedMine,-6099,-6074,9235,9250
+P_LargeShip,-6097,-6079,9359,9419

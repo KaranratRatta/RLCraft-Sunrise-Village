@@ -1,0 +1,5 @@
+StonePlantMound1,-9772,-9766,4312,4318
+WoodWallRemains,-9796,-9768,4320,4328
+StonePlantMound4,-9780,-9773,4448,4455
+StonePlantMound2,-9791,-9778,4410,4422
+StoneBoulder,-9786,-9777,4352,4361

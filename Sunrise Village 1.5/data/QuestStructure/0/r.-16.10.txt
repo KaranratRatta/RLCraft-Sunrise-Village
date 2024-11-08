@@ -1,0 +1,4 @@
+RLCraft_BasicZombie,-8644,-8644,5595,5595
+RLCraft_UndergroundRuin1,-8647,-8638,5592,5601
+StonePlantMound4,-8480,-8473,5590,5597
+ShrineSmallEarth,-8585,-8573,5536,5548

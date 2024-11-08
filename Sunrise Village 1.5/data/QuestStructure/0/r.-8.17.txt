@@ -1,0 +1,2 @@
+ShrineSmallWater,-4180,-4172,8870,8878
+ShrineSmallWater,-4169,-4161,8908,8916

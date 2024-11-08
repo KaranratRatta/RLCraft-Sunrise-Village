@@ -1,0 +1,2 @@
+StoneLeafMound,-3464,-3457,4629,4638
+StoneLeafMound,-3151,-3142,4658,4665

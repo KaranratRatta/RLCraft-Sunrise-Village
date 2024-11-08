@@ -1,0 +1,5 @@
+ShrineSmallAir,-7261,-7253,7852,7860
+RLCraft_DecentSpider,-7277,-7277,8066,8066
+RLCraft_UndergroundRuin3,-7282,-7274,8060,8068
+ShrineSmallAir,-7325,-7317,7796,7804
+P_SmallShip,-7507,-7487,7685,7691

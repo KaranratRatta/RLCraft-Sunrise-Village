@@ -1,0 +1,5 @@
+ShrineSmallFire,940,950,-4211,-4201
+StonePlantMound4,912,919,-4101,-4094
+P_SeasidePort,908,936,-4116,-4091
+UndergroundCrypt,811,839,-4414,-4400
+ShrineSmallWater,801,809,-4177,-4169

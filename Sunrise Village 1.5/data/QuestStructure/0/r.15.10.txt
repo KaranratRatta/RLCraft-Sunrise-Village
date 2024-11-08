@@ -1,0 +1,8 @@
+UndergroundTreeoid,8023,8049,5577,5600
+ShrineSmallAir,8071,8079,5560,5568
+RLCraft_DecentSpider,8055,8055,5520,5520
+RLCraft_UndergroundRuin2,8050,8057,5515,5525
+ShrineSmallWater,8097,8105,5489,5497
+DinosaurSkull,8000,8019,5462,5473
+ShrineSmallAir,7902,7910,5448,5456
+RLCraft_UndergroundFarm,7755,7798,5429,5471

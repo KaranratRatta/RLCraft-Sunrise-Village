@@ -1,0 +1,4 @@
+StoneLeafMound,-7215,-7206,6875,6882
+RLCraft_SmallUndergroundSkeleton,-7256,-7248,6830,6838
+StonePlantBoulder,-7309,-7299,6792,6802
+StoneLeafMound,-7285,-7276,7037,7044

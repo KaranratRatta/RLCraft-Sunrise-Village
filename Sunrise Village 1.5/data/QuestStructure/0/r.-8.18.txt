@@ -1,0 +1,10 @@
+P_IceSkeletonLookout,-4145,-4135,9288,9298
+P_TreeDungeon,-4246,-4204,9352,9397
+StoneIceBoulder3,-4153,-4143,9415,9425
+RLCraft_SmallUndergroundSkeleton,-4305,-4297,9278,9286
+DinosaurSkull,-4195,-4184,9581,9600
+RLCraft_DecentCaveSpider,-4120,-4120,9629,9629
+RLCraft_UndergroundRuin3,-4126,-4118,9624,9632
+RLCraft_DecentSpider,-4220,-4220,9667,9667
+RLCraft_UndergroundRuin3,-4226,-4218,9664,9672
+StoneIceBoulder,-4105,-4095,9654,9663

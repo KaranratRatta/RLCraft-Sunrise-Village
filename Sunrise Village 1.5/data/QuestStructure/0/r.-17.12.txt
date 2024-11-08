@@ -1,0 +1,15 @@
+RLCraft_UndergroundFarm,-9057,-9014,6172,6214
+StonePlantMound2,-8871,-8858,6243,6255
+StonePlantMound4,-8892,-8885,6282,6289
+ClayWaterMound,-8901,-8893,6292,6299
+RLCraft_SmallUndergroundSkeleton,-8888,-8880,6312,6320
+ClayWaterMound,-8984,-8977,6328,6336
+StonePlantMound,-8860,-8855,6328,6333
+StonePlantMound1,-8928,-8922,6351,6357
+RLCraft_SmallUndergroundSkeleton,-8791,-8783,6353,6361
+ShrineSmallFire,-8807,-8797,6414,6424
+StoneLeafMound,-8796,-8787,6384,6391
+StonePlantMound3,-9189,-9178,6543,6552
+StonePlantMound3,-9203,-9192,6433,6442
+StonePlantMound3,-8752,-8743,6366,6377
+StonePlantMound4,-8754,-8747,6373,6380

@@ -1,0 +1,16 @@
+StoneBoulder,-6558,-6549,9213,9222
+CorruptedEnderTree,-6375,-6364,9578,9591
+StonePlantMound2,-6353,-6341,9509,9522
+ForestBeacon,-6440,-6432,9493,9501
+StonePlantBoulder,-6503,-6493,9443,9453
+StonePlantMound4,-6482,-6475,9428,9435
+StonePlantMound,-6391,-6386,9399,9404
+StonePlantMound3,-6373,-6362,9377,9386
+RLCraft_SmallUndergroundSkeleton,-6392,-6384,9300,9308
+WoodThornBig,-6308,-6295,9444,9457
+RLCraft_SmallUndergroundSkeleton,-6309,-6301,9440,9448
+RLCraft_SmallUndergroundSkeleton,-6295,-6287,9361,9369
+StonePlantMound,-6420,-6415,9242,9247
+RLCraft_DecentSpider,-6216,-6216,9309,9309
+RLCraft_UndergroundRuin2,-6221,-6214,9304,9314
+UndergroundTreeoid,-6181,-6158,9275,9301

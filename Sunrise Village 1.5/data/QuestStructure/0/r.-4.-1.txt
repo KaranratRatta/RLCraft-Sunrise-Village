@@ -1,0 +1,3 @@
+RLCraft_AgentStarbuck_WaterBase,-2550,-2533,-1000,-988
+RLCraft_DecentZombie,-2451,-2451,-923,-923
+RLCraft_UndergroundRuin2,-2456,-2446,-928,-921

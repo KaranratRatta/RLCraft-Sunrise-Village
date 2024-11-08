@@ -1,0 +1,11 @@
+ClayWaterMound,-4611,-4603,6635,6642
+RLCraft_BasicSkeleton,-4599,-4599,6535,6535
+RLCraft_UndergroundRuin1,-4605,-4596,6529,6538
+RLCraft_4Towers,-4420,-4368,6518,6578
+RLCraft_UndergroundFarm,-4354,-4312,6502,6545
+StonePlantMound,-4427,-4422,6490,6495
+RLCraft_DecentSkeleton,-4254,-4254,6465,6465
+RLCraft_UndergroundRuin3,-4256,-4248,6460,6468
+StonePlantMound,-4295,-4290,6466,6471
+P_TempleOfErolith,-4295,-4202,6431,6513
+RLCraft_DecentZombie,-4096,-4096,6536,6536

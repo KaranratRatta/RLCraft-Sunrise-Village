@@ -1,0 +1,6 @@
+ShrineSmallFire,-5149,-5139,3399,3409
+SmallClockworkSite,-5179,-5160,3466,3488
+DinosaurSkull,-5235,-5216,3298,3309
+VeldtBath,-5315,-5264,3177,3245
+FallenPalmTree,-5293,-5283,3143,3147
+StoneBoulder,-5125,-5116,3100,3109

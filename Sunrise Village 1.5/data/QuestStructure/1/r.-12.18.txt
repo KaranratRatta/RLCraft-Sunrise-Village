@@ -1,0 +1,3 @@
+RLCraft_End_Battletower_Broken,-6349,-6310,9275,9313
+RLCraft_End_Decoration_2,-6262,-6252,9316,9326
+RLCraft_End_Decoration_1,-6205,-6195,9309,9319

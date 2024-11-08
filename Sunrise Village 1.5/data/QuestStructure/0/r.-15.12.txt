@@ -1,0 +1,10 @@
+StonePlantBoulder,-7957,-7947,6146,6156
+SmallOutpost,-8047,-8025,6155,6185
+StonePlantMound,-7950,-7945,6178,6183
+StoneLeafMound,-7810,-7803,6202,6211
+StonePlantMound2,-7877,-7865,6268,6281
+StoneLeafMound,-7793,-7786,6265,6274
+StonePlantMound3,-7988,-7979,6278,6289
+StonePlantMound,-7692,-7687,6269,6274
+MysticalTree2,-7685,-7675,6144,6154
+StonePlantMound2,-7812,-7799,6314,6326
